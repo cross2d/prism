@@ -1333,6 +1333,11 @@
 			},
 			"owner": "Golmote"
 		},
+		"vue": {
+			"title": "Vue",
+			"alias": ["vue-html"],
+			"owner": "Colin3dmax"
+		},
 		"warpscript": {
 			"title": "WarpScript",
 			"owner": "RunDevelopment"

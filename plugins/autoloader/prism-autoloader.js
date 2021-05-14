@@ -239,6 +239,7 @@
 		"url": "uri",
 		"vb": "visual-basic",
 		"vba": "visual-basic",
+		"vue-html": "vue",
 		"xeoracube": "xeora",
 		"yml": "yaml"
 	}/*]*/;

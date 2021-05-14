@@ -228,6 +228,7 @@
 		"visual-basic": "Visual Basic",
 		"vba": "VBA",
 		"vb": "Visual Basic",
+		"vue-html": "Vue",
 		"wasm": "WebAssembly",
 		"wiki": "Wiki markup",
 		"xeoracube": "XeoraCube",
